@@ -2,9 +2,9 @@
 
 A basic project I made with Rust to play sounds at different frequencies.
 
--> Thumbnail
+<img src="assets/thumnill.png" />
 
-[Youtube Video]()
+[Video Link](https://youtu.be/5PoA51DeRQU)
 
 Use the keys a,s,d,f,g,h,j,k,l as your piano keys.
 
